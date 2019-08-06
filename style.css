@@ -1,0 +1,13 @@
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.header {
+  font-size: 50px;
+  background-color: rgb(45, 45, 128);
+  color:white;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
