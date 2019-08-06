@@ -1,8 +1,11 @@
 .text-center {
   text-align: center;
 }
-.text-right {
+.image-text {
   text-align: right;
+  width: 160px;
+  margin-left: 50px;
+  text-align: initial;
 }
 .header {
   font-size: 50px;
@@ -10,4 +13,27 @@
   color:white;
   padding-top: 15px;
   padding-bottom: 5px;
+}
+.inline {
+  display: inline-block;
+}
+.body-text {
+  margin-right: 150px;
+  margin-left: 20px;
+  width: 300px;
+text-align: initial;
+}
+.break-bar {
+  background-color: lightblue;
+  margin-left: 215px;
+  margin-right: 215px;
+}
+.bottom {
+  background-color: rgb(45, 45, 128);
+}
+.image {
+  text-align: center;
+  background-color: blue;
+  padding: 30px;
+  color: white;
 }
